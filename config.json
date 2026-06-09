@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-decorators",
+      "title": "Python Decorators",
+      "description": "Master custom decorators in Python: timing, parameters, call tracking, and validation.",
+      "path": "assignments/python-decorators",
+      "dueDate": "2026-06-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
